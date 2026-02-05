@@ -1,5 +1,3 @@
-# 💫 About Me:
-I’m a BCA student with an AI specialization who’s genuinely curious about how technology works under the hood. I enjoy learning by building — even if that means breaking things first and fixing them later 😄<br><br>Right now, I’m focused on:<br><br>🧠 Artificial Intelligence & Machine Learning<br><br>🐍 Python development<br><br>💻 Web development & software fundamentals<br><br>🔐 Exploring cybersecurity and ethical hacking basics<br><br>I like turning ideas into small projects and improving them step by step instead of starting from scratch every time. Most of my repositories are learning-driven projects, experiments, or improvements of previous work.<br><br>I believe consistency > motivation, and GitHub is where I document my growth as a developer.<br><br>📫 Always open to learning, collaboration, and feedback.
 
 
 ## 🌐 Socials:
